@@ -5,4 +5,4 @@
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** Java, Kotlin, Dart, Go, Python, C#, JavaScript
--  **Contact me :** [nEdAy](mailto:shengsu15@gmail.com)
+-  **Contact me :** [nEdAy](mailto:shengsu15@gmail.com)  Wechat: nEdAy_
