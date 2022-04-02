@@ -3,6 +3,7 @@
 
 ### About
 
+-  **Abilities :** Android(Kotlin), Flutter, uni-app(MP-WEIXIN), React Native :muscle:
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
--  **Languages :** Java, Kotlin, Dart, Go, Python, C#, JavaScript
--  **Contact me :** [nEdAy](mailto:shengsu15@gmail.com)  Wechat: nEdAy_
+-  **Languages :** Java, Kotlin, Dart, Go, Python, C#, JavaScript :thumbsup:
+-  **Contact me :** [nEdAy](mailto:shengsu15@gmail.com)  Wechat: shengsu15 :punch:
