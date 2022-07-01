@@ -2,7 +2,7 @@
 
 ### About
 
--  **Abilities :** Android(Kotlin), Flutter, Golang(Gin), uni-app(MP-WEIXIN) :muscle:
+-  **Abilities :** Android(Kotlin), Flutter, Golang(Gin), uni-app :muscle:
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** Java, Kotlin, Dart, Go, Python, C#, JavaScript :thumbsup:
 -  **Contact me :** [nEdAy](mailto:shengsu15@gmail.com)  Wechat: shengsu15 :punch:
