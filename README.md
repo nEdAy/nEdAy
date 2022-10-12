@@ -10,7 +10,7 @@
 
 ### 技术分享
 
-- 为所有屏幕构建精美应用 [Flutter](https://file.neday.cn/Flutter.pdf)
+- 为所有屏幕构建精美应用 [Flutter](https://file.neday.cn/Flutter.pdf) [Flutter2](https://file.neday.cn/Flutter2.pdf)
 - 什么是鸿蒙 [HarmonyOS](https://file.neday.cn/HarmonyOS.pdf)
 - 为什么需要应用Crash聚合平台 [Sentry](https://file.neday.cn/Sentry.pdf)
 - 渐进式前端解决方案 [Vue.js](https://file.neday.cn/Vue.pdf)
