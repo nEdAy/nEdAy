@@ -1,5 +1,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
+![](https://komarev.com/ghpvc/?username=nEdAy)
+
 ### About
 
 -  **Abilities :** Android(Kotlin), Flutter, Golang(Gin), uni-app :muscle:
