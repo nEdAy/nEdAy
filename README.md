@@ -1,6 +1,14 @@
+# Hi👋 , I'm <a href="https://github.com/nEdAy"> nEdAy </a>
+
+<img align="center" alt="wallpaper" src="https://github.com/nEdAy/nEdAy/raw/main/android.gif"/>
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
 ![](https://komarev.com/ghpvc/?username=nEdAy)
+![](https://img.shields.io/badge/OS-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=informational)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=informational)
+![](https://img.shields.io/badge/lang-dart-informational?style=flat&logo=dart&logoColor=white&color=informational)
+![](https://img.shields.io/badge/lang-kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=informational)
 
 ### About
 
