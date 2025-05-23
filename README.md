@@ -1,4 +1,4 @@
-# Hi👋 , I'm <a href="https://github.com/nEdAy"> nEdAy </a>
+# Hi👋 , I'm <a href="https://github.com/nEdAy"> Kevin </a>
 
 <img align="center" alt="wallpaper" src="https://github.com/nEdAy/nEdAy/raw/main/android.gif"/>
 
